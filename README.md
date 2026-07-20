@@ -1,76 +1,91 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1a2f,100:00f7ff&height=220&section=header&text=BHAGYA%20GANDHI&fontSize=55&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Systems%20Thinker&descAlignY=58&descSize=18&descColor=8fd8ff"/>
-
-<a href="https://github.com/Bhagyagandhi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=%3E+booting+bhagya.exe...;%3E+loading+modules%3A+ai%2C+ml%2C+web...;%3E+status%3A+open+for+internships;%3E+ready." alt="Typing SVG"/>
-</a>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
-
-### `whoami`
-
-```yaml
-name: Bhagya Gandhi
-role: AI/ML Student
-focus: [Machine Learning, Web Systems, Digital Productivity Tools]
-status: Open to internships
-philosophy: "Automate the boring, ship the useful."
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
-
-### `stack --list`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,php,html,css,git,vscode,figma&theme=dark" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
-
-### `ls ./projects`
-
-| Project | Stack | What it does |
-|---|---|---|
-| [**Efficient-Task-Scheduler**](https://github.com/Bhagyagandhi/Efficient-Task-Scheduler) | HTML | Smart scheduling system to organize and prioritize tasks automatically |
-| [**Smart_Expense_Tracker**](https://github.com/Bhagyagandhi/Smart_Expense_Tracker) | Python | Tracks and analyzes personal spending patterns |
-| [**Gujarat_Pollution_Tracker**](https://github.com/Bhagyagandhi/Gujarat_Pollution_Tracker) | HTML | Real-time pollution data visualization for Gujarat |
-| [**assignmate**](https://github.com/Bhagyagandhi/assignmate) | JavaScript | Assignment management tool for students |
-| [**UPSC-Exam-Preparation**](https://github.com/Bhagyagandhi/UPSC-Exam-Preparation) | PHP | Study resource and prep tracker for UPSC aspirants |
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
-
-### `render --contribution-graph --mode=3d`
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Bhagyagandhi/Bhagyagandhi/output/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
-
-### `metrics --dashboard`
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Bhagyagandhi/Bhagyagandhi/output/github-metrics.svg" width="100%"/>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
-
-### `connect --with=me`
-
-<div align="center">
-
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/bhagya-g-091284361/)"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f7ff&labelColor=0d1117"/></a>
-<a href="mailto:bhagyagandhi90@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00f7ff&labelColor=0d1117"/></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a2332&height=180&section=header&text=Bhagya%20Gandhi&fontSize=46&fontColor=e6edf3&animation=fadeIn&fontAlignY=42&desc=AI/ML%20Engineer%20in%20training&descAlignY=62&descSize=16&descColor=7d8590"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bhagyagandhi&color=0d1117&style=for-the-badge&label=SIGNAL+RECEIVED)
+<img src="https://img.shields.io/badge/Python-1a2332?style=flat-square&logo=python&logoColor=3776AB&labelColor=1a2332"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-1a2332?style=flat-square&logo=tensorflow&logoColor=e6edf3&labelColor=1a2332"/>
+<img src="https://img.shields.io/badge/Open%20to%20Internships-1a2332?style=flat-square&logo=briefcase&logoColor=3fb950&labelColor=1a2332"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:0a1a2f,100:0d1117&height=120&section=footer"/>
+<br/>
+
+I'm an AI/ML student focused on **Python** — building models, tools, and small systems that solve real problems rather than staying theoretical. Alongside ML, I work across web development and digital productivity tooling.
+
+<br/>
+
+### Primary language
+
+<div align="left">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
+Most of my active work — data handling, automation, and current ML learning — is in Python. It's the language I reach for first.
+
+<br/>
+
+### Also working with
+
+<div align="left">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-1a2332?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/-HTML5-1a2332?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-1a2332?style=flat-square&logo=css3&logoColor=1572B6)
+![PHP](https://img.shields.io/badge/-PHP-1a2332?style=flat-square&logo=php&logoColor=777BB4)
+![Git](https://img.shields.io/badge/-Git-1a2332?style=flat-square&logo=git&logoColor=F05032)
+
+</div>
+
+<br/>
+
+### Projects
+
+| | Project | Stack |
+|---|---|---|
+| 🐍 | [**Smart_Expense_Tracker**](https://github.com/Bhagyagandhi/Smart_Expense_Tracker) | Python — tracks and analyzes personal spending patterns |
+| 🗓️ | [**Efficient-Task-Scheduler**](https://github.com/Bhagyagandhi/Efficient-Task-Scheduler) | HTML — automatic task organization and prioritization |
+| 🌍 | [**Gujarat_Pollution_Tracker**](https://github.com/Bhagyagandhi/Gujarat_Pollution_Tracker) | HTML — real-time pollution data visualization |
+| 📚 | [**assignmate**](https://github.com/Bhagyagandhi/assignmate) | JavaScript — assignment management tool for students |
+| 🎯 | [**UPSC-Exam-Preparation**](https://github.com/Bhagyagandhi/UPSC-Exam-Preparation) | PHP — study resource and prep tracker |
+
+<br/>
+
+### Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bhagyagandhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=3776AB&text_color=8b949e" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyagandhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=8" width="38%"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhagyagandhi&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a2332&ring=3776AB&fire=3776AB&currStreakLabel=e6edf3" width="70%"/>
+</div>
+
+<br/>
+
+### Contribution history
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bhagyagandhi/Bhagyagandhi/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</div>
+
+<br/>
+
+### Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/bhagya-g-091284361/"><img src="https://img.shields.io/badge/-LinkedIn-1a2332?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="mailto:bhagyagandhi90@gmail.com"><img src="https://img.shields.io/badge/-Email-1a2332?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
+
+<br/><br/>
+
+<sub>github.com/Bhagyagandhi</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2332,100:0d1117&height=100&section=footer"/>
