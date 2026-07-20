@@ -1,106 +1,76 @@
 <div align="center">
 
-<!-- Animated typing header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1a2f,100:00f7ff&height=220&section=header&text=BHAGYA%20GANDHI&fontSize=55&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Systems%20Thinker&descAlignY=58&descSize=18&descColor=8fd8ff"/>
+
 <a href="https://github.com/Bhagyagandhi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhagya+Gandhi;AIML+Student+%7C+Builder+%7C+Explorer;Turning+Ideas+Into+Intelligent+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=%3E+booting+bhagya.exe...;%3E+loading+modules%3A+ai%2C+ml%2C+web...;%3E+status%3A+open+for+internships;%3E+ready." alt="Typing SVG"/>
 </a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
+
+### `whoami`
+
+```yaml
+name: Bhagya Gandhi
+role: AI/ML Student
+focus: [Machine Learning, Web Systems, Digital Productivity Tools]
+status: Open to internships
+philosophy: "Automate the boring, ship the useful."
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
+
+### `stack --list`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,php,html,css,git,vscode,figma&theme=dark" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
+
+### `ls ./projects`
+
+| Project | Stack | What it does |
+|---|---|---|
+| [**Efficient-Task-Scheduler**](https://github.com/Bhagyagandhi/Efficient-Task-Scheduler) | HTML | Smart scheduling system to organize and prioritize tasks automatically |
+| [**Smart_Expense_Tracker**](https://github.com/Bhagyagandhi/Smart_Expense_Tracker) | Python | Tracks and analyzes personal spending patterns |
+| [**Gujarat_Pollution_Tracker**](https://github.com/Bhagyagandhi/Gujarat_Pollution_Tracker) | HTML | Real-time pollution data visualization for Gujarat |
+| [**assignmate**](https://github.com/Bhagyagandhi/assignmate) | JavaScript | Assignment management tool for students |
+| [**UPSC-Exam-Preparation**](https://github.com/Bhagyagandhi/UPSC-Exam-Preparation) | PHP | Study resource and prep tracker for UPSC aspirants |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
+
+### `render --contribution-graph --mode=3d`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bhagyagandhi/Bhagyagandhi/output/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
+
+### `metrics --dashboard`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bhagyagandhi/Bhagyagandhi/output/github-metrics.svg" width="100%"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
+
+### `connect --with=me`
+
+<div align="center">
+
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/bhagya-g-091284361/)"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f7ff&labelColor=0d1117"/></a>
+<a href="mailto:bhagyagandhi90@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00f7ff&labelColor=0d1117"/></a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bhagyagandhi&color=00f7ff&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Bhagyagandhi?label=Followers&style=flat-square&color=00f7ff)](https://github.com/Bhagyagandhi?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Bhagyagandhi&color=0d1117&style=for-the-badge&label=SIGNAL+RECEIVED)
 
 </div>
 
----
-
-### 🚀 About Me
-
-- 🎓 AI/ML student, currently exploring the intersection of **AI, web development, and digital productivity**
-- 🧠 I build things that solve real everyday problems — trackers, schedulers, productivity tools
-- 🌱 Currently leveling up in **Machine Learning** and full-stack web development
-- 💼 **Open to internships** — let's build something great together
-- ⚡ Fun fact: I like turning boring manual tasks into smart automated systems
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00f7ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00f7ff)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00f7ff)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00f7ff)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00f7ff)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00f7ff)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00f7ff)
-
-</div>
-
----
-
-### 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Bhagyagandhi/Efficient-Task-Scheduler">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagyagandhi&repo=Efficient-Task-Scheduler&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff" />
-</a>
-<a href="https://github.com/Bhagyagandhi/Smart_Expense_Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagyagandhi&repo=Smart_Expense_Tracker&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff" />
-</a>
-<a href="https://github.com/Bhagyagandhi/Gujarat_Pollution_Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagyagandhi&repo=Gujarat_Pollution_Tracker&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff" />
-</a>
-<a href="https://github.com/Bhagyagandhi/assignmate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagyagandhi&repo=assignmate&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff" />
-</a>
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bhagyagandhi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhagyagandhi&theme=dark&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyagandhi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" width="48%" />
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhagyagandhi&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true" width="90%"/>
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Bhagyagandhi/Bhagyagandhi/output/github-contribution-grid-snake-dark.svg" width="90%" />
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-<a href="https://www.linkedin.com/in/bhagya-g-091284361/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00f7ff"/></a>
-<a href="mailto:bhagyagandhi90@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00f7ff"/></a>
-
-<br/><br/>
-
-![Snake animation](https://raw.githubusercontent.com/Bhagyagandhi/Bhagyagandhi/output/github-contribution-grid-snake.svg)
-
-<sub>⭐️ If you like what you see, drop a star on my repos!</sub>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:0a1a2f,100:0d1117&height=120&section=footer"/>
