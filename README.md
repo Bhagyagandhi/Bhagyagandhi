@@ -56,13 +56,13 @@ Most of my active work â€” data handling, automation, and current ML learning â€
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bhagyagandhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=3776AB&text_color=8b949e" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyagandhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=8" width="38%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bhagyagandhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=3776AB&text_color=8b949e" width="48%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bhagyagandhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=8" width="38%"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhagyagandhi&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a2332&ring=3776AB&fire=3776AB&currStreakLabel=e6edf3" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=Bhagyagandhi&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a2332&ring=3776AB&fire=3776AB&currStreakLabel=e6edf3" width="70%"/>
 </div>
 
 <br/>
@@ -79,8 +79,8 @@ Most of my active work â€” data handling, automation, and current ML learning â€
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/bhagya-g-091284361/"><img src="https://img.shields.io/badge/-LinkedIn-1a2332?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="mailto:bhagyagandhi90@gmail.com"><img src="https://img.shields.io/badge/-Email-1a2332?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-1a2332?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-1a2332?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
 
 <br/><br/>
 
