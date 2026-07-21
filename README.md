@@ -1,91 +1,140 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Bhagya Gandhi</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a2332&height=180&section=header&text=Bhagya%20Gandhi&fontSize=46&fontColor=e6edf3&animation=fadeIn&fontAlignY=42&desc=AI/ML%20Engineer%20in%20training&descAlignY=62&descSize=16&descColor=7d8590"/>
+<h3 align="center">
+🚀 AI & Python Developer | Building Intelligent Applications
+</h3>
 
-<br/>
+<p align="center">
+Passionate about Artificial Intelligence, Machine Learning, and Full Stack Development.
+I enjoy building practical AI applications that solve real-world problems.
+</p>
 
-<img src="https://img.shields.io/badge/Python-1a2332?style=flat-square&logo=python&logoColor=3776AB&labelColor=1a2332"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-1a2332?style=flat-square&logo=tensorflow&logoColor=e6edf3&labelColor=1a2332"/>
-<img src="https://img.shields.io/badge/Open%20to%20Internships-1a2332?style=flat-square&logo=briefcase&logoColor=3fb950&labelColor=1a2332"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Python+Programmer;Machine+Learning+Enthusiast;Open+Source+Learner;Always+Building+Something+New..." />
+</p>
 
-</div>
+---
 
-<br/>
+## 👨‍💻 About Me
 
-I'm an AI/ML student focused on **Python** — building models, tools, and small systems that solve real problems rather than staying theoretical. Alongside ML, I work across web development and digital productivity tooling.
+- 🎓 Computer Science (AI & ML) Student
+- 🐍 Python Developer
+- 🤖 Interested in AI, Machine Learning & Computer Vision
+- 🌐 Learning Full Stack Development
+- 📚 Currently building AI-powered applications
+- 💡 Always curious to learn new technologies
 
-<br/>
+---
 
-### Primary language
+## 🚀 Tech Stack
 
-<div align="left">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
+### Programming Languages
 
-Most of my active work — data handling, automation, and current ML learning — is in Python. It's the language I reach for first.
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css"/>
+</p>
 
-<br/>
+### Frameworks & Libraries
 
-### Also working with
+<p>
+<img src="https://skillicons.dev/icons?i=flask,react,nodejs,opencv,tensorflow"/>
+</p>
 
-<div align="left">
+### Databases
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-1a2332?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/-HTML5-1a2332?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-1a2332?style=flat-square&logo=css3&logoColor=1572B6)
-![PHP](https://img.shields.io/badge/-PHP-1a2332?style=flat-square&logo=php&logoColor=777BB4)
-![Git](https://img.shields.io/badge/-Git-1a2332?style=flat-square&logo=git&logoColor=F05032)
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase"/>
+</p>
 
-</div>
+### Tools
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
+</p>
 
-### Projects
+---
 
-| | Project | Stack |
-|---|---|---|
-| 🐍 | [**Smart_Expense_Tracker**](https://github.com/Bhagyagandhi/Smart_Expense_Tracker) | Python — tracks and analyzes personal spending patterns |
-| 🗓️ | [**Efficient-Task-Scheduler**](https://github.com/Bhagyagandhi/Efficient-Task-Scheduler) | HTML — automatic task organization and prioritization |
-| 🌍 | [**Gujarat_Pollution_Tracker**](https://github.com/Bhagyagandhi/Gujarat_Pollution_Tracker) | HTML — real-time pollution data visualization |
-| 📚 | [**assignmate**](https://github.com/Bhagyagandhi/assignmate) | JavaScript — assignment management tool for students |
-| 🎯 | [**UPSC-Exam-Preparation**](https://github.com/Bhagyagandhi/UPSC-Exam-Preparation) | PHP — study resource and prep tracker |
+# 📊 GitHub Stats
 
-<br/>
+<p align="center">
 
-### Activity
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhagyagandhi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyagandhi&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bhagyagandhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=3776AB&text_color=8b949e" width="48%"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bhagyagandhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=8" width="38%"/>
+</p>
 
-</div>
+---
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Bhagyagandhi&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a2332&ring=3776AB&fire=3776AB&currStreakLabel=e6edf3" width="70%"/>
-</div>
+# 🔥 GitHub Streak
 
-<br/>
+<p align="center">
 
-### Contribution history
+<img src="https://streak-stats.demolab.com?user=Bhagyagandhi&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Bhagyagandhi/Bhagyagandhi/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</div>
+</p>
 
-<br/>
+---
 
-### Connect
+# 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-1a2332?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-1a2332?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhagyagandhi&theme=tokyo-night"/>
 
-<br/><br/>
+</p>
 
-<sub>github.com/Bhagyagandhi</sub>
+---
 
-</div>
+# 🏆 GitHub Trophies
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2332,100:0d1117&height=100&section=footer"/>
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bhagyagandhi&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+🚀 AI Multimodal Student Assistant
+
+📄 PDF Chat with AI
+
+🌿 Plant Disease Detection
+
+🧠 Cognitive Decline Detection
+
+💬 AI Chat Applications
+
+---
+
+## 📚 Currently Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Deep Learning
+- FastAPI
+- Docker
+- Cloud Deployment
+
+---
+
+## 📫 Connect With Me
+
+<p>
+
+<a href="https://github.com/Bhagyagandhi">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</p>
