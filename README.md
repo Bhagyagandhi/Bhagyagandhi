@@ -1,44 +1,58 @@
-<h1 align="center">Hi 👋, I'm Bhagya Gandhi</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Python+Developer;Learning+AI+and+Machine+Learning;Building+Projects+One+Step+at+a+Time" />
-</p>
+# Hi 👋 I'm Bhagya Gandhi
 
-<h3 align="center">
-Python Learner • AI Enthusiast • Future Software Developer
-</h3>
+### Building my journey in Python, AI & Open Source
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Python+Developer+in+Progress;Learning+Artificial+Intelligence;Building+Projects+Every+Week;Always+Learning+Something+New" />
 
-## 👨‍💻 About Me
-
-- 🐍 Currently learning Python
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 📚 Learning by building real-world projects
-- 💡 Interested in problem solving and automation
-- 🌱 Always improving one project at a time
+</div>
 
 ---
 
-## 🛠 Skills
+## 🚀 About Me
+
+I'm passionate about technology and enjoy learning by building practical projects.
+
+Currently, I'm focused on strengthening my Python skills while exploring Artificial Intelligence and Machine Learning. My goal is to become a software engineer who builds useful, real-world applications.
+
+---
+
+## 💻 Current Skills
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
-> **Currently Learning**
->
-> Artificial Intelligence • Machine Learning • Git • Open Source
+---
+
+## 📖 Currently Learning
+
+- 🐍 Advanced Python
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🌍 Open Source
+- ⚡ Git & GitHub
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 2026 Goals
+
+- Build 15+ Python Projects
+- Learn Data Structures & Algorithms
+- Contribute to Open Source
+- Build AI Applications
+- Become Job Ready
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhagyagandhi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhagyagandhi&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyagandhi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyagandhi&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -47,35 +61,44 @@ Python Learner • AI Enthusiast • Future Software Developer
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Bhagyagandhi&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Bhagyagandhi&theme=transparent&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🌱 Current Focus
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhagyagandhi&theme=tokyo-night"/>
-</p>
+```python
+class BhagyaGandhi:
 
----
+    def __init__(self):
+        self.learning = [
+            "Python",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Git & GitHub"
+        ]
 
-## 🎯 2026 Goals
+        self.goal = "Build software that solves real-world problems."
 
-- ✅ Master Python
-- 🚀 Build AI projects
-- 📚 Learn Data Structures & Algorithms
-- 🌍 Contribute to Open Source
-- 💼 Become job-ready as a Python Developer
-
----
-
-## 💭 Quote
-
-> *"The expert in anything was once a beginner."*
+    def life(self):
+        return "Learn → Build → Improve → Repeat"
+```
 
 ---
 
-<p align="center">
-Thanks for visiting my profile ❤️
-</p>
+## 💬 Favorite Quote
+
+> **"Stay hungry. Stay foolish."** — Steve Jobs
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*Always learning. Always building.*
+
+</div>
