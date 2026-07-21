@@ -1,12 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Bhagya Gandhi 👋
+# Hi 👋 I'm Bhagya Gandhi
 
-### Building software with Python while exploring Artificial Intelligence.
+### Building software with Python while exploring Artificial Intelligence
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Python+Developer+in+Progress;Learning+Artificial+Intelligence;Open+Source+Learner;Building+Projects+One+Commit+at+a+Time" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Python+Developer+in+Progress;Learning+Artificial+Intelligence;Building+Projects;Always+Learning)
 
 </div>
 
@@ -14,74 +12,60 @@
 
 ## 👨‍💻 About Me
 
-I'm passionate about software development and enjoy learning by building.
+I'm passionate about learning through building.
 
-Currently, I'm focused on improving my Python skills, exploring Artificial Intelligence, and creating projects that solve real-world problems.
-
-Outside of coding, I enjoy continuously learning new technologies and improving one step at a time.
+Currently I'm improving my Python skills, exploring Artificial Intelligence, and creating projects that solve real-world problems.
 
 ---
 
-## 🛠 Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
-</p>
-
-### Currently Learning
+## 🛠 Skills
 
 - Python
-- Git & GitHub
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Python
 - Artificial Intelligence
 - Machine Learning
+- Data Structures & Algorithms
 - Open Source
 
 ---
 
-## 🎯 Goals
+## 📌 Current Goals
 
-- Build useful Python applications
-- Strengthen problem-solving skills
+- Build useful Python projects
+- Write clean and maintainable code
 - Learn AI & Machine Learning
 - Contribute to Open Source
-- Grow as a Software Developer
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhagyagandhi&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhagyagandhi&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyagandhi&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyagandhi&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📌 What You'll Find Here
+## 📫 Connect
 
-- Python projects
-- Automation scripts
-- Learning experiments
-- AI & Machine Learning projects
-- Open-source contributions
-
----
-
-## 💬 Philosophy
-
-> **"Consistency beats intensity."**
-
-Every project I build teaches me something new.
+Feel free to explore my repositories and connect with me.
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile!
-
-⭐ If you like my work, feel free to explore my repositories.
+⭐ Thanks for visiting my profile!
 
 </div>
