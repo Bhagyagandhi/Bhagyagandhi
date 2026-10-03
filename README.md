@@ -25,7 +25,7 @@ location: Mumbai, India
 education: B.E. CSE (AI & ML) @ A.P. Shah Institute of Technology [2023-2027]
 focus: Generative AI | LLM Applications | RAG Systems | AI Automation
 currently: Building with LangChain, Vector DBs & Local LLMs
-open_to: Internships & AI/ML collaborations
+open_to: Internships & AI/ML 
 ```
 
 ---
